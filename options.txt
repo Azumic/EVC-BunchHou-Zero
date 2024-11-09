@@ -36,7 +36,7 @@ simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:120
+maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
@@ -99,7 +99,7 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
-key_key.socialInteractions:key.keyboard.p
+key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
@@ -122,8 +122,8 @@ key_key.modernfix.config:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_iris.keybind.reload:key.keyboard.keypad.subtract:CONTROL
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.toggleShaders:key.keyboard.keypad.multiply:CONTROL
+key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide:CONTROL
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
