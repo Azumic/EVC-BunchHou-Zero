@@ -1,10 +1,15 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:touhou_little_maid:hakurei_gohei{Damage:0,Enchantments:[{id:\"touhou_little_maid:impeding\",lvl:4s},{id:\"touhou_little_maid:speedy\",lvl:2s},{id:\"touhou_little_maid:enders_ender\",lvl:1s}],RepairCost:7}",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"touhou_little_maid:impeding\",lvl:4s}]}",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"touhou_little_maid:enders_ender\",lvl:1s}]}",
     "item:minecraft:acacia_pressure_plate",
     "item:minecraft:mangrove_fence"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "minecraft:birch_planks"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},

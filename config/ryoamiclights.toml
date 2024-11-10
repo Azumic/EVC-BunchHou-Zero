@@ -58,6 +58,21 @@ mode = "fastest"
 				decorated_pot = true
 				blast_furnace = true
 
+			[light_sources.settings.block_entities.touhou_little_maid]
+				keyboard = true
+				garage_kit = true
+				bookshelf = true
+				gomoku = true
+				statue = true
+				cchess = true
+				shrine = true
+				computer = true
+				altar = true
+				maid_beacon = true
+				wchess = true
+				model_switcher = true
+				picnic_mat = true
+
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
@@ -191,4 +206,18 @@ mode = "fastest"
 				painting = false
 				interaction = false
 				wither = false
+
+			[light_sources.settings.entities.touhou_little_maid]
+				throw_power_point = true
+				tombstone = true
+				chair = true
+				broom = true
+				extinguishing_agent = true
+				box = true
+				fishing_hook = true
+				danmaku = true
+				power_point = true
+				maid = true
+				fairy = true
+				sit = true
 

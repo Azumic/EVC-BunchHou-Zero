@@ -1,0 +1,57 @@
+
+[Task]
+	#These entries configure the melon stem and melon_block item list.
+	#rule: [melon_block_id, attached_melon_stem_block_id]
+	#Eg: ["minecraft:melon", "minecraft:attached_melon_stem"]
+	MelonAndStemList = [["simplefarming:cantaloupe", "simplefarming:attached_cantaloupe_stem"], ["simplefarming:honeydew", "simplefarming:attached_honeydew_stem"], ["simplefarming:squash", "simplefarming:attached_squash_stem"]]
+	#These can configure the cook selected recipes max size.
+	CookSelectedRecipes = 10
+	#These can configure the fruit task searchy offset.
+	SearchyOffset = 4
+
+[Render]
+	#Maid can render LDBanner.
+	LDBannerRenderEnabled = true
+
+[Register]
+	#This can make the berry farm task enabled or not.
+	BerryTaskEnabled = true
+	#This can make the fruit farm task enabled or not.
+	FruitTaskEnabled = true
+	#This can make the compat melon farm task enabled or not.
+	CompatMelonFarmTaskEnabled = true
+	#This can make the sereneseasons farm task enabled or not.
+	SereneSeasonsTaskEnabled = true
+	#This can make the feed and drink owner task enabled or not.
+	FeedAndDrinkOwnerTaskEnabled = true
+	#This can make the furnace task enabled or not.
+	FurnaceTaskEnabled = true
+	#This can make the fd cook pot task enabled or not.
+	FDCookPotTaskEnabled = true
+	#This can make the md cook pot task enabled or not.
+	MDCookPotTaskEnabled = true
+	#This can make the bnc key task enabled or not.
+	BNCKeyTaskEnabled = true
+	#This can make the yhc moka task enabled or not.
+	YHC_MOKA_TaskEnabled = true
+	#This can make the db beer task enabled or not.
+	DB_Beer_TaskEnabled = true
+	#This can make the dbk cooking pot task enabled or not.
+	DBK_CookingPotTaskEnabled = true
+	#This can make the dbk stove task enabled or not.
+	DBK_StoveTaskEnabled = true
+	#This can make the dbp mine fridge task enabled or not.
+	DBP_MineFridgeTaskEnabled = true
+	#This can make the dbp tiki bar task enabled or not.
+	DBP_TikiBarTaskEnabled = true
+	#This can make the dcl cooking pan task enabled or not.
+	DCL_CookingPanTaskEnabled = true
+	#This can make the dcl cooking pot task enabled or not.
+	DCL_CookingPotTaskEnabled = true
+	#This can make the dhb cauldron task enabled or not.
+	DHB_CauldronTaskEnabled = true
+	#This can make the dhb tea kettle task enabled or not.
+	DHB_TeaKettleTaskEnabled = true
+	#This can make the fermentation barrel task enabled or not.
+	FermentationBarrelTaskEnabled = true
+
