@@ -1,0 +1,18 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.config.MaidConfigContainerGui": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.task.DefaultMaidTaskConfigGui": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "dev.gigaherz.toolbelt.common.BeltScreen": true,
+    "dev.xkmc.l2tabs.tabs.contents.AttributeScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "dev.gigaherz.toolbelt.client.RadialMenuScreen": true
+  },
+  "hideBackground": {
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.config.MaidConfigContainerGui": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.task.DefaultMaidTaskConfigGui": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "touhou_little_maid:hakurei_gohei",
+    "touhou_little_maid:sanae_gohei",
+    "supplementaries:slingshot",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}

@@ -78,16 +78,16 @@ mode = "fastest"
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = false
 				axolotl = false
-				zoglin = false
 				egg = false
+				zoglin = false
 				spawner_minecart = false
 				allay = false
 				llama = false
 				mule = false
 				bat = false
 				husk = false
-				experience_bottle = false
 				camel = false
+				experience_bottle = false
 				rabbit = false
 				firework_rocket = false
 				silverfish = false
@@ -223,4 +223,7 @@ mode = "fastest"
 				maid = true
 				fairy = true
 				sit = true
+
+			[light_sources.settings.entities.quark]
+				stoneling = true
 
