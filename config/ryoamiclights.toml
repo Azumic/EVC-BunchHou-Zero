@@ -78,16 +78,16 @@ mode = "fastest"
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = false
 				axolotl = false
-				egg = false
 				zoglin = false
+				egg = false
 				spawner_minecart = false
 				allay = false
 				llama = false
 				mule = false
 				bat = false
 				husk = false
-				camel = false
 				experience_bottle = false
+				camel = false
 				rabbit = false
 				firework_rocket = false
 				silverfish = false
@@ -206,6 +206,9 @@ mode = "fastest"
 				painting = false
 				interaction = false
 				wither = false
+
+			[light_sources.settings.entities.youkaishomecoming]
+				lamprey = true
 
 			[light_sources.settings.entities.touhou_little_maid]
 				throw_power_point = true

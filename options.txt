@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","Minecraft-Mod-Language-Package-1.20-45BD4F.zip","fabric","wallevbunch","file/PCL2 Skin.zip"]
+resourcePacks:["mod_resources","vanilla","Minecraft-Mod-Language-Package-1.20-45BD4F.zip","fabric","wallevbunch","bountifulfares:vanilla_item_override","bountifulfares:farmersdelight_res","file/PCL2 Skin.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -122,10 +122,12 @@ key_key.halohud.toggle-hud:key.keyboard.h
 key_key.modernfix.config:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.solapplepie.open_food_book:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.keypad.subtract:CONTROL
 key_iris.keybind.toggleShaders:key.keyboard.keypad.multiply:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide:CONTROL
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_desc.seasonhud.keybind.options:key.keyboard.h
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
