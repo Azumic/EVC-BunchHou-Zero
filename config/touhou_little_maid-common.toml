@@ -104,7 +104,7 @@
 	#Whether to use the new version of the Fairy Maid model
 	UseNewMaidFairyModel = true
 	#Whether to enable model icon caching
-	ModelIconCache = true
+	ModelIconCache = false
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.

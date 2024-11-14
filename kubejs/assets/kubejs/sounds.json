@@ -1,0 +1,7 @@
+{
+    "cash": {
+        "category": "neutral",
+        "subtitle": "收银",
+        "sounds": ["kubejs:cash"]
+    }
+}

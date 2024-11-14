@@ -1,3 +1,7 @@
+.*
+
+modernfix
+local
 EVC BunchHou One-natives
 logs
 saves
@@ -7,3 +11,8 @@ EVC BunchHou One.json
 crash-reports
 data
 mods/.connector
+kubejs/probe
+!kubejs/data
+xaero
+modernfix
+backups

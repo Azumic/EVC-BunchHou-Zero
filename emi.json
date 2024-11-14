@@ -1,6 +1,45 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:quark:golden_carrot_crate",
+    "item:minecraft:mud",
+    "item:minecraft:packed_mud",
+    "item:minecraft:mud_bricks",
+    "item:touhou_little_maid:furnace_backpack",
+    {
+      "type": "item",
+      "id": "farmersdelight:baked_cod_stew",
+      "amount": 15
+    },
+    "item:farmersdelight:pumpkin_soup",
+    "item:touhou_little_maid:maid_backpack_small",
+    "item:touhou_little_maid:maid_backpack_middle",
+    "item:minecraft:pumpkin_seeds",
+    "item:crockpot:corn_seeds",
+    "item:waystones:warp_dust",
+    "item:waystones:return_scroll",
+    "item:waystones:bound_scroll",
+    "item:waystones:warp_scroll",
+    "item:waystones:warp_plate",
+    "item:waystones:waystone",
+    "item:waystones:mossy_waystone",
+    "item:waystones:sandy_waystone",
+    "item:waystones:sharestone",
+    "item:waystones:red_sharestone",
+    "item:waystones:black_sharestone",
+    "item:waystones:portstone",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:waystones:cyan_sharestone",
+    "item:waystones:white_sharestone",
+    "item:waystones:gray_sharestone",
+    "item:quark:stripped_cherry_post",
+    "item:brewinandchewin:keg",
+    "item:quark:smooth_soul_sandstone",
+    {
+      "type": "item",
+      "id": "minecraft:birch_planks",
+      "amount": 4
+    },
     "item:quark:ancient_tome",
     "item:quark:backpack",
     "item:toolbelt:belt",
@@ -16,6 +55,7 @@
     "item:minecraft:mangrove_fence"
   ],
   "craft_history": [
+    "bountifulfares:maize_seeds_from_maize",
     "minecraft:birch_planks"
   ],
   "recipe_defaults": {

@@ -226,4 +226,20 @@ mode = "fastest"
 
 			[light_sources.settings.entities.quark]
 				stoneling = true
+				crab = true
+				toretoise = true
+				forgotten = true
+				foxhound = true
+
+			[light_sources.settings.entities.easy_npc]
+				humanoid = true
+				villager = true
+				allay = true
+
+			[light_sources.settings.entities.customnpcs]
+				customnpc = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
 

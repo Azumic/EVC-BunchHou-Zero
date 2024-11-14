@@ -1,0 +1,16 @@
+
+[Render]
+	#Food effect tooltip render.
+	FoodEffect = true
+	#Food effect icon black list regex.
+	FoodEffectIconBlackRegex = []
+	#Food values tooltip render.
+	FoodValue = true
+	#Item icon type tooltip render.
+	#Allowed Values: LEGENDARY, MODERN_UI, OBSCURE, NORMAL
+	ItemIconType = "MODERN_UI"
+	#Armor tooltip render.
+	Armor = true
+	#Auto define item_icon_type tooltip.
+	AutoItemIconType = true
+
