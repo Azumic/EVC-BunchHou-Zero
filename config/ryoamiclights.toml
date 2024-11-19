@@ -209,6 +209,7 @@ mode = "fastest"
 
 			[light_sources.settings.entities.youkaishomecoming]
 				lamprey = true
+				rumia = true
 
 			[light_sources.settings.entities.touhou_little_maid]
 				throw_power_point = true
@@ -230,6 +231,7 @@ mode = "fastest"
 				toretoise = true
 				forgotten = true
 				foxhound = true
+				shiba = true
 
 			[light_sources.settings.entities.easy_npc]
 				humanoid = true
@@ -242,4 +244,35 @@ mode = "fastest"
 			[light_sources.settings.entities.vinery]
 				wandering_winemaker = true
 				mule = true
+
+			[light_sources.settings.entities.crockpot]
+				volt_goat = true
+
+			[light_sources.settings.entities.iceandfire]
+				gorgon = true
+				stone_statue = true
+				ice_dragon = true
+				troll = true
+				hippocampus = true
+				ghost = true
+				dragon_multipart = true
+
+			[light_sources.settings.entities.aquaculture]
+				blackfish = true
+				jellyfish = true
+				pink_salmon = true
+				atlantic_herring = true
+				carp = true
+				smallmouth_bass = true
+				bluegill = true
+				red_grouper = true
+				atlantic_halibut = true
+				rainbow_trout = true
+				pollock = true
+				muskellunge = true
+				brown_trout = true
+				minnow = true
+				atlantic_cod = true
+				arrau_turtle = true
+				bobber = true
 

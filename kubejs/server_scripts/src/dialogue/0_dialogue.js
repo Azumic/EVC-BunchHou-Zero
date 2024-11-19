@@ -134,9 +134,8 @@ function _Answer(text, actionFunc) {
 
 
 ItemEvents.entityInteracted(event => {
-    // 使用Object.values()获取CharsDialogue对象的所有值
     /**
-     * @type _CharDias[]
+     * @type {_CharDias[]}
      */
     var _charsDia = Object.values(global["_CharsDia"]);
     for (const charDia of _charsDia) {
@@ -146,6 +145,7 @@ ItemEvents.entityInteracted(event => {
                 if (dialogue.canDia(event)) {
                     console.log(`charDia.name: ${charDia.charName} dialogue:`);
                     console.log(dialogue);
+                    _setDiaFromNpc(dialogue.diaId, event.target, event.player)
                     return
                 }
             }
@@ -154,3 +154,28 @@ ItemEvents.entityInteracted(event => {
 })
 
 
+
+/**
+ * @param {String} diaId 
+ * @param {Internal.Mob} npc 
+ * @param {Internal.Player} player 
+ */
+function _setDiaFromNpc(diaId, npc, player) {
+    npc.lookAt("eyes", player.getEyePosition())
+    npc.lookAt("feet", player.getEyePosition())
+
+    npc.getNavigation().stop();
+
+    _setDia(diaId)
+}
+
+/**
+ * @param {String} diaId 
+ */
+function _setDia(diaId) {
+    // global["questDiaInfo"]["show"] = true
+    // global["questDiaInfo"]["answerId"] = 1
+
+    // global["questDiaInfo"]["dialogueId"] = diaId
+    // global["questDiaInfo"]["renderTick"] = -1
+}

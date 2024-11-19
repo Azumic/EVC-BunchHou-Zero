@@ -24,3 +24,9 @@ ServerEvents.tags("item", evt => {
 ServerEvents.tags("block", evt => {
     evt.get("crockpot:unknown_crops").add("#minecraft:crops")
 })
+
+ServerEvents.tags("entity_type", evt => {
+    evt.get("iceandfire:blinded").add("touhou_little_maid:maid")
+    console.log(evt.get("iceandfire:blinded").getObjectIds());
+    
+})

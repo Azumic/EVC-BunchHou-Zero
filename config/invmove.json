@@ -9,7 +9,7 @@
     "sneak": "Maintain",
     "dismount": false,
     "textFieldDisables": true,
-    "unrecognizedScreenDefault": true
+    "unrecognizedScreenDefault": false
   },
   "background": {
     "enable": false,

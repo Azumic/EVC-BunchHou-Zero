@@ -1,0 +1,4 @@
+[11:16:01] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[11:16:01] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE carpet 1.4.120+v231004 {depends minecraft @ [>1.20.1]}, ROOT_FORCELOAD_SINGLE carpet 1.4.120+v231004]
+[11:16:01] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP carpet 1.4.120+v231004 {depends minecraft @ [>1.20.1]}]
+[11:16:01] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[carpet 1.4.120+v231004] -> add:carpet 1 ([(-∞,∞)])]

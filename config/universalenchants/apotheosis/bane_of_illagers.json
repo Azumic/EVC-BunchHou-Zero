@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "apotheosis:weapon_tome"
+  ],
+  "incompatible": [
+    "apotheosis:shield_bash",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "minecraft:impaling"
+  ]
+}

@@ -1,10 +1,51 @@
 {
-  "bookGuiScale": 0,
+  "bookGuiScale": 4,
   "clickedVisualize": true,
   "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:adventure/bosses/surface_bosses",
+        "apotheosis:enchanting/utility/tomes"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "caupona:book": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "l2backpack:backpack_guide": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/lexicon"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "convivium:book": {
+      "viewedEntries": [
+        "convivium:beverage_basics/sways",
+        "convivium:mechanisms/whisk"
+      ],
+      "bookmarks": [
+        {
+          "entry": "convivium:beverage_basics/sways",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    },
     "touhou_little_maid:memorizable_gensokyo": {
       "viewedEntries": [
-        "touhou_little_maid:overview/multiblocks_altar"
+        "touhou_little_maid:overview/multiblocks_altar",
+        "touhou_little_maid:maid/naming_eggs",
+        "touhou_little_maid:addon/fruit",
+        "touhou_little_maid:addon/berry"
       ],
       "bookmarks": [],
       "completedManualQuests": []

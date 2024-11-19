@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","Minecraft-Mod-Language-Package-1.20-45BD4F.zip","fabric","wallevbunch","bountifulfares:farmersdelight_res","bountifulfares:vanilla_item_override","file/PCL2 Skin.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["mod_resources","vanilla","Minecraft-Mod-Language-Package-1.20-45BD4F.zip","fabric","wallevbunch","bountifulfares:farmersdelight_res","bountifulfares:vanilla_item_override","file/[1.20.1]MASA全家桶汉化包.zip","bountifulfares:amendments_res","Moonlight Mods Dynamic Assets","eatinganimations+ 1.10.zip","eatinganimations_compat","file/PCL2 Skin.zip"]
+incompatibleResourcePacks:["eatinganimations+ 1.10.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -121,45 +121,45 @@ key_key.hotbar.9:key.keyboard.9
 key_key.halohud.toggle-hud:key.keyboard.h
 key_key.modernfix.config:key.keyboard.unknown
 key_key.solapplepie.open_food_book:key.keyboard.unknown
-key_key.additionalplacements.placement_toggle:key.keyboard.unknown
+key_key.additionalplacements.placement_toggle:key.keyboard.grave.accent:CONTROL
 key_key.curios.open.desc:key.keyboard.g
 key_iris.keybind.reload:key.keyboard.keypad.subtract:CONTROL
 key_iris.keybind.toggleShaders:key.keyboard.keypad.multiply:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide:CONTROL
-key_key.fast_placement:key.keyboard.grave.accent:CONTROL
+key_key.fast_placement:key.keyboard.unknown
 key_key.l2backpack.open:key.keyboard.b
 key_key.toms_storage.open_terminal:key.keyboard.b
-key_key.jei.previousRecipePage:key.keyboard.page.up
-key_key.jei.cheatOneItem2:key.mouse.right
-key_key.jei.nextSearch:key.keyboard.down
-key_key.jei.toggleEditMode:key.keyboard.unknown
-key_key.jei.previousPage:key.keyboard.unknown
-key_key.jei.nextPage:key.keyboard.unknown
-key_key.jei.maxTransferRecipeBookmark:key.mouse.left:CONTROL
-key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.jei.showRecipe:key.keyboard.r
-key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
-key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
-key_key.jei.showRecipe2:key.mouse.left
-key_key.jei.focusSearch:key.keyboard.f:CONTROL
-key_key.jei.bookmark:key.keyboard.a
-key_key.jei.toggleCheatMode:key.keyboard.unknown
 key_key.jei.transferRecipeBookmark:key.mouse.left:SHIFT
-key_key.jei.cheatItemStack2:key.mouse.middle
-key_key.jei.cheatOneItem:key.mouse.left
+key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.jei.recipeBack:key.keyboard.backspace
-key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.jei.nextRecipePage:key.keyboard.page.down
-key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
-key_key.jei.clearSearchBar:key.mouse.right
-key_key.jei.showUses2:key.mouse.right
 key_key.jei.closeRecipeGui:key.keyboard.escape
-key_key.jei.showUses:key.keyboard.u
-key_key.jei.previousSearch:key.keyboard.up
+key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.jei.cheatItemStack:key.mouse.left:SHIFT
-key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
+key_key.jei.cheatOneItem2:key.mouse.right
+key_key.jei.cheatItemStack2:key.mouse.middle
+key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
+key_key.jei.bookmark:key.keyboard.a
+key_key.jei.maxTransferRecipeBookmark:key.mouse.left:CONTROL
+key_key.jei.clearSearchBar:key.mouse.right
+key_key.jei.nextSearch:key.keyboard.down
+key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
+key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.showUses:key.keyboard.u
+key_key.jei.cheatOneItem:key.mouse.left
+key_key.jei.nextPage:key.keyboard.unknown
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.previousRecipePage:key.keyboard.page.up
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
+key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
+key_key.jei.previousSearch:key.keyboard.up
+key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
+key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.modernui.openCenter:key.keyboard.k:CONTROL
 key_key.modernui.zoom:key.keyboard.c
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
@@ -171,6 +171,8 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_placebo.toggleTrails:key.keyboard.keypad.9
+key_placebo.toggleWings:key.keyboard.keypad.8
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
@@ -182,12 +184,8 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_Scene1 start/pause:key.keyboard.keypad.1
-key_Scene2 start/pause:key.keyboard.keypad.2
-key_Scene3 start/pause:key.keyboard.keypad.3
-key_Scene reset:key.keyboard.keypad.0
-key_Quest Log:key.keyboard.l
 key_desc.seasonhud.keybind.options:key.keyboard.h
+key_key.slotlock:key.keyboard.left.alt
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
@@ -232,6 +230,8 @@ key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
+key_supplementaries.keybind.quiver:key.keyboard.v
+key_key.nbtedit.shortcut:key.keyboard.n
 key_key.l2mods.up:key.keyboard.up
 key_key.l2mods.down:key.keyboard.down
 key_key.l2mods.left:key.keyboard.left

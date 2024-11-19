@@ -99,11 +99,6 @@ global['questDialogues2'] = {
     }
 }
 
-let npcData = {
-    "piaier": "3a50485c-3c4a-44be-b5e7-c2add07c1833",
-    "liuyisi": "60e861c3-0868-4c7d-8222-eae10f70263f",
-}
-
 let playerSpeed = 0;
 
 ItemEvents.entityInteracted(event => {

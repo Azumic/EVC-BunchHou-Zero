@@ -4,6 +4,7 @@
  * @name 皮埃尔
  */
 const piaierDia = new _CharDias("piaier")
+
     .addDialogueInfo(new _DialogueInfo("goumai")
         .setQuestion("有什么可以招待的吗？")
         .setCanDia((/** @type {Internal.ItemEntityInteractedEventJS} */ event) => {
