@@ -11,12 +11,24 @@
       "completedManualQuests": []
     },
     "caupona:book": {
-      "viewedEntries": [],
-      "bookmarks": [],
+      "viewedEntries": [
+        "caupona:sautee_recipes/seared_fillet",
+        "caupona:tweaks/dyes"
+      ],
+      "bookmarks": [
+        {
+          "entry": "caupona:tweaks/dyes",
+          "page": 0
+        }
+      ],
       "completedManualQuests": []
     },
     "l2backpack:backpack_guide": {
-      "viewedEntries": [],
+      "viewedEntries": [
+        "l2backpack:mechanics/any_access",
+        "l2backpack:mechanics/exit",
+        "l2backpack:items/2_dimensional_storages"
+      ],
       "bookmarks": [],
       "completedManualQuests": []
     },
@@ -45,7 +57,8 @@
         "touhou_little_maid:overview/multiblocks_altar",
         "touhou_little_maid:maid/naming_eggs",
         "touhou_little_maid:addon/fruit",
-        "touhou_little_maid:addon/berry"
+        "touhou_little_maid:addon/berry",
+        "touhou_little_maid:maid/spawn_maid"
       ],
       "bookmarks": [],
       "completedManualQuests": []

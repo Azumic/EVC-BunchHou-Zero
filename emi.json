@@ -1,9 +1,14 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:minecraft:fishing_rod{Damage:36,Enchantments:[{id:\"minecraft:lure\",lvl:3s},{id:\"minecraft:luck_of_the_sea\",lvl:4s}],RepairCost:3}"
+    }
+  ],
   "lookup_history": [
+    "item:minecraft:salmon{}",
+    "item:minecraft:fishing_rod{Damage:36,Enchantments:[{id:\"minecraft:lure\",lvl:3s},{id:\"minecraft:luck_of_the_sea\",lvl:4s}],RepairCost:3}",
     "item:solcarrot:food_book",
     "item:solapplepie:food_book",
-    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:the_nether/inferno\"}",
     "item:toolbelt:pouch",
     "item:toolbelt:belt{}",
     {
@@ -19,7 +24,6 @@
     },
     "item:vinery:fermentation_barrel",
     "item:minecraft:mangrove_door",
-    "item:minecraft:salmon",
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:15,\"forge:effect_id\":\"minecraft:blindness\"}]}",
     "item:minecraft:netherite_axe{Damage:0}",
     "item:supplementaries:lunch_basket",

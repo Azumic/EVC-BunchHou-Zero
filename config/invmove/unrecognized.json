@@ -112,7 +112,8 @@
     "com.teammetallurgy.aquaculture.client.gui.screen.TackleBoxScreen": false,
     "com.bonker.stardewfishing.client.FishingScreen": false,
     "com.github.catbert.tlma.client.gui.item.CookBagConfigContainerGui": false,
-    "com.github.catbert.tlma.client.gui.item.CookBagGui": false
+    "com.github.catbert.tlma.client.gui.item.CookBagGui": false,
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": false
   },
   "hideBackground": {
     "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
